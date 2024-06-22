@@ -17,6 +17,7 @@ My name is Amylia Natasya and I am pursuing a Bachelor’s degree in Software En
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-007396?style=for-the-badge&logo=sql&logoColor=white)
 
 ---
 
